@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">AndroidOreoNotification</string>
+
+    <string name="channel_one_text">Channel One</string>
+    <string name="channel_two_text">Channel Two</string>
+    <string name="button_label">Post Notification</string>
+    <string name="settings">Settings</string>
+    <string name="channel_one_body">Notification Body Text</string>
+    <string name="channel_two_body">Notification Body Text</string>
+
+</resources>
